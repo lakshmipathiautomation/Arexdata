@@ -1,0 +1,15 @@
+Apr 12,2022 08:24:59 [info]  Entered username as lakshmipathi.kantipalli57@gmail.com
+Apr 12,2022 08:25:02 [info]  Entered password as Laxmipathi@1997
+Apr 12,2022 08:25:06 [info]  Clicked on login button
+Apr 12,2022 08:25:10 [info]  User name been verified Successfully
+Apr 12,2022 09:06:42 [info]  Entered username as lakshmipathi.kantipalli57@gmail.com
+Apr 12,2022 09:06:44 [info]  Entered password as Laxmipathi@1997
+Apr 12,2022 09:06:49 [info]  Clicked on login button
+Apr 12,2022 09:06:53 [info]  User name been verified Successfully
+Apr 12,2022 09:07:13 [info]  Clicked on create alert button
+Apr 12,2022 09:07:21 [info]  Alert name entered.
+Apr 12,2022 09:07:29 [info]  Email entered.
+Apr 12,2022 09:07:31 [info]  Clicked on save button
+Apr 12,2022 09:07:35 [info]  Clicked on Heade of Column : Name
+Apr 12,2022 09:07:41 [info]  Clicked on delete button to delete alert
+Apr 12,2022 09:07:52 [info]  Closing driver on platform: Windows 10
